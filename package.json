@@ -1,0 +1,24 @@
+{
+  "name": "TriviaGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaneMit/TriviaGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaneMit/TriviaGame/issues"
+  },
+  "homepage": "https://github.com/ShaneMit/TriviaGame#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "inquirer": "^7.1.0"
+  }
+}
